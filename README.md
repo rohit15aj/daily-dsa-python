@@ -11,6 +11,7 @@ My daily LeetCode problem-solving journey using python.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rohit15aj/daily-dsa-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ My daily LeetCode problem-solving journey using python.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ My daily LeetCode problem-solving journey using python.
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -64,8 +67,18 @@ My daily LeetCode problem-solving journey using python.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
