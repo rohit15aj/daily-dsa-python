@@ -46,11 +46,13 @@ My daily LeetCode problem-solving journey using python.
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohit15aj/daily-dsa-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohit15aj/daily-dsa-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +68,7 @@ My daily LeetCode problem-solving journey using python.
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohit15aj/daily-dsa-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -81,4 +84,8 @@ My daily LeetCode problem-solving journey using python.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohit15aj/daily-dsa-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
