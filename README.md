@@ -6,6 +6,7 @@ My daily LeetCode problem-solving journey using python.
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/rohit15aj/daily-dsa-python/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohit15aj/daily-dsa-python/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohit15aj/daily-dsa-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohit15aj/daily-dsa-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,6 +30,7 @@ My daily LeetCode problem-solving journey using python.
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/rohit15aj/daily-dsa-python/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohit15aj/daily-dsa-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
