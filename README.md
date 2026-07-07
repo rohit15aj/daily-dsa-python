@@ -93,4 +93,8 @@ My daily LeetCode problem-solving journey using python.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohit15aj/daily-dsa-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rohit15aj/daily-dsa-python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
