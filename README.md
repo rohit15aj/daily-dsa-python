@@ -36,6 +36,7 @@ My daily LeetCode problem-solving journey using python.
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohit15aj/daily-dsa-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohit15aj/daily-dsa-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ My daily LeetCode problem-solving journey using python.
 ## String
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohit15aj/daily-dsa-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohit15aj/daily-dsa-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohit15aj/daily-dsa-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rohit15aj/daily-dsa-python/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -154,4 +156,12 @@ My daily LeetCode problem-solving journey using python.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/rohit15aj/daily-dsa-python/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohit15aj/daily-dsa-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohit15aj/daily-dsa-python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
