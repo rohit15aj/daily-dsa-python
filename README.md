@@ -6,6 +6,7 @@ My daily LeetCode problem-solving journey using python.
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rohit15aj/daily-dsa-python/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohit15aj/daily-dsa-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/rohit15aj/daily-dsa-python/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rohit15aj/daily-dsa-python/tree/master/1288-remove-covered-intervals) |
@@ -131,6 +132,7 @@ My daily LeetCode problem-solving journey using python.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rohit15aj/daily-dsa-python/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohit15aj/daily-dsa-python/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohit15aj/daily-dsa-python/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/rohit15aj/daily-dsa-python/tree/master/3620-network-recovery-pathways) |
@@ -146,6 +148,7 @@ My daily LeetCode problem-solving journey using python.
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rohit15aj/daily-dsa-python/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohit15aj/daily-dsa-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohit15aj/daily-dsa-python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohit15aj/daily-dsa-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -213,4 +216,12 @@ My daily LeetCode problem-solving journey using python.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rohit15aj/daily-dsa-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rohit15aj/daily-dsa-python/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rohit15aj/daily-dsa-python/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
